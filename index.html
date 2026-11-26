@@ -13,6 +13,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="vendor/leaflet/MarkerCluster.css">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -171,7 +173,24 @@
       <div class="wrap">
         <p class="eyebrow center">Where to Buy</p>
         <h2 class="center">Find Grounds near you</h2>
-        <p class="center narrow">Grounds is sold in 35 lb bags at every location of these farm and feed retailers:</p>
+        <p class="center narrow">Grounds is sold in 35 lb bags at every location of these farm and feed retailers. Zoom in or use your location to find the closest store.</p>
+
+        <div class="store-finder">
+          <div class="finder-bar">
+            <button type="button" class="btn btn-small" id="near-me">Stores near me</button>
+            <label class="finder-filter">
+              <span class="visually-hidden">Show retailer</span>
+              <select id="retailer-filter"><option value="">All retailers</option></select>
+            </label>
+            <p class="finder-count" id="store-count" aria-live="polite"></p>
+          </div>
+          <div class="finder-body">
+            <div id="store-map" role="region" aria-label="Map of stores that carry Grounds"></div>
+            <ol class="nearest" id="nearest" hidden></ol>
+          </div>
+        </div>
+
+        <h3 class="center buy-online">Or check stock online</h3>
         <!-- EDIT: update this list as you add retailers -->
         <ul class="stores">
           <li class="store"><a href="https://www.ruralking.com/grounds-recycled-coffee-animal-bedding-35-lbs-f3500000" target="_blank" rel="noopener"><h3>Rural King</h3><span>View product &rarr;</span></a></li>
@@ -260,6 +279,10 @@
     </div>
   </footer>
 
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="vendor/leaflet/leaflet.markercluster.js"></script>
+  <script src="js/stores.js"></script>
+  <script src="js/store-map.js"></script>
   <script>
     // Mobile menu
     const toggle = document.querySelector('.menu-toggle');
