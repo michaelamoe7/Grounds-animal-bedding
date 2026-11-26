@@ -18,6 +18,7 @@ FILES = {  # input file name -> retailer name shown on the map
     "theisens.json": "Theisen's",
     "buchheit.json": "Buchheit",
     "atp_big_r_farm_and_home_us.json": "Big R Farm & Home",
+    "atp_big_r_stores_us.json": "Big R Stores",
 }
 
 def zip_centre(z):
