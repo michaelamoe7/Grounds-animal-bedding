@@ -1,6 +1,6 @@
 """Merge per-retailer store lists into js/stores.js for the store map.
 
-Usage: python3 tools/build_stores.py <dir-with-json-files>
+Usage: python3 tools/build_stores.py [data/stores]
 Each input file is a JSON array of {name, street, city, state, zip, lat, lon, url}.
 Stores without coordinates are placed at their ZIP code centre (pip install zipcodes).
 """
@@ -63,4 +63,4 @@ def main(src):
     print("\n".join(report)); print("TOTAL", len(out))
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main(sys.argv[1] if len(sys.argv) > 1 else "data/stores")

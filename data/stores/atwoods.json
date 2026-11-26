@@ -1,0 +1,832 @@
+[
+ {
+  "name": "Atwoods of Alma",
+  "street": "200 Hwy 64",
+  "city": "Alma",
+  "state": "AR",
+  "zip": "72921",
+  "lat": 35.484268,
+  "lon": -94.229432,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Arkadelphia",
+  "street": "2727 Caddo Street Sp B",
+  "city": "Arkadelphia",
+  "state": "AR",
+  "zip": "71923",
+  "lat": 34.120168,
+  "lon": -93.082526,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Cabot",
+  "street": "2475 W Main Street",
+  "city": "Cabot",
+  "state": "AR",
+  "zip": "72023",
+  "lat": 34.984601,
+  "lon": -92.051741,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Camden",
+  "street": "1260 Hwy 278 West",
+  "city": "Camden",
+  "state": "AR",
+  "zip": "71701",
+  "lat": 33.572002,
+  "lon": -92.853588,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Clarksville",
+  "street": "1121 S. Rogers Street",
+  "city": "Clarksville",
+  "state": "AR",
+  "zip": "72830",
+  "lat": 35.459441,
+  "lon": -93.457774,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Crossett",
+  "street": "1308 S. Main",
+  "city": "Crossett",
+  "state": "AR",
+  "zip": "71635",
+  "lat": 33.118782,
+  "lon": -91.96272,
+  "url": null
+ },
+ {
+  "name": "Atwoods of El Dorado",
+  "street": "2103 Junction City Rd, St A",
+  "city": "El Dorado",
+  "state": "AR",
+  "zip": "71730",
+  "lat": 33.197785,
+  "lon": -92.643743,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Fort Smith",
+  "street": "1401 Highway 71 South",
+  "city": "Fort Smith",
+  "state": "AR",
+  "zip": "72901",
+  "lat": 35.330448,
+  "lon": -94.419423,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Hope",
+  "street": "201 So. Hervey",
+  "city": "Hope",
+  "state": "AR",
+  "zip": "71801",
+  "lat": 33.666826,
+  "lon": -93.595569,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Hot Springs",
+  "street": "2004 Albert Pike",
+  "city": "Hot Springs",
+  "state": "AR",
+  "zip": "71913",
+  "lat": 34.494961,
+  "lon": -93.099126,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Lonoke",
+  "street": "1400 North Center",
+  "city": "Lonoke",
+  "state": "AR",
+  "zip": "72086",
+  "lat": 34.796174,
+  "lon": -91.896721,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Lowell",
+  "street": "1112 W. Monroe Ave",
+  "city": "Lowell",
+  "state": "AR",
+  "zip": "72745",
+  "lat": 36.256577,
+  "lon": -94.159118,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Magnolia",
+  "street": "1629 Main St.",
+  "city": "Magnolia",
+  "state": "AR",
+  "zip": "71753",
+  "lat": 33.263052,
+  "lon": -93.217604,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Mena",
+  "street": "1100 Hwy 71 N",
+  "city": "Mena",
+  "state": "AR",
+  "zip": "71953",
+  "lat": 34.588166,
+  "lon": -94.219464,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Monticello",
+  "street": "202 Hwy 425 So.",
+  "city": "Monticello",
+  "state": "AR",
+  "zip": "71655",
+  "lat": 33.625795,
+  "lon": -91.803956,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Russellville",
+  "street": "2804 So. Arkansas",
+  "city": "Russellville",
+  "state": "AR",
+  "zip": "72802",
+  "lat": 35.250354,
+  "lon": -93.138322,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Searcy",
+  "street": "2212 Queensway St",
+  "city": "Searcy",
+  "state": "AR",
+  "zip": "72143",
+  "lat": 35.220301,
+  "lon": -91.716248,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Siloam Springs",
+  "street": "1451 HIGHWAY 412 W",
+  "city": "Siloam Springs",
+  "state": "AR",
+  "zip": "72761",
+  "lat": 36.177699,
+  "lon": -94.557068,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Andover",
+  "street": "426 S Andover Rd.",
+  "city": "Andover",
+  "state": "KS",
+  "zip": "67002",
+  "lat": 37.680326,
+  "lon": -97.132745,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Derby",
+  "street": "333 Red Powell Dr.",
+  "city": "Derby",
+  "state": "KS",
+  "zip": "67037",
+  "lat": 37.565781,
+  "lon": -97.274773,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Hutchinson",
+  "street": "1320 East 30th Ave.",
+  "city": "Hutchinson",
+  "state": "KS",
+  "zip": "67502",
+  "lat": 38.08849,
+  "lon": -97.905043,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Park City",
+  "street": "5501 Air Cap Drive",
+  "city": "Park City",
+  "state": "KS",
+  "zip": "67219",
+  "lat": 37.797958,
+  "lon": -97.337354,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Salina",
+  "street": "400 S Broadway Blvd",
+  "city": "Salina",
+  "state": "KS",
+  "zip": "67401",
+  "lat": 38.834058,
+  "lon": -97.627091,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Webb City",
+  "street": "220 SE Road",
+  "city": "Webb City",
+  "state": "MO",
+  "zip": "64870",
+  "lat": 37.125168,
+  "lon": -94.473581,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Altus",
+  "street": "2220 North Main",
+  "city": "Altus",
+  "state": "OK",
+  "zip": "73521",
+  "lat": 34.662779,
+  "lon": -99.332404,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Alva",
+  "street": "1600 E. Oklahoma Blvd.",
+  "city": "Alva",
+  "state": "OK",
+  "zip": "73717",
+  "lat": 36.798896,
+  "lon": -98.636131,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Ardmore",
+  "street": "1025 Campus Drive",
+  "city": "Ardmore",
+  "state": "OK",
+  "zip": "73401",
+  "lat": 34.20555,
+  "lon": -97.137954,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Bartlesville",
+  "street": "3101 S.E. Washington Blvd",
+  "city": "Bartlesville",
+  "state": "OK",
+  "zip": "74006",
+  "lat": 36.703688,
+  "lon": -95.936168,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Broken Arrow",
+  "street": "2351 E. Kenosha",
+  "city": "Broken Arrow",
+  "state": "OK",
+  "zip": "74012",
+  "lat": 36.060013,
+  "lon": -95.763191,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Chandler",
+  "street": "1700 East First Street",
+  "city": "Chandler",
+  "state": "OK",
+  "zip": "74834",
+  "lat": 35.711333,
+  "lon": -96.861821,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Checotah",
+  "street": "1110 W. Gentry",
+  "city": "Checotah",
+  "state": "OK",
+  "zip": "74426",
+  "lat": 35.472685,
+  "lon": -95.534897,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Chickasha",
+  "street": "2221 Ponderosa Dr",
+  "city": "Chickasha",
+  "state": "OK",
+  "zip": "73018",
+  "lat": 35.024763,
+  "lon": -97.927875,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Claremore",
+  "street": "1955 W Country Club Rd",
+  "city": "Claremore",
+  "state": "OK",
+  "zip": "74019",
+  "lat": 36.305618,
+  "lon": -95.620089,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Clinton",
+  "street": "2237 Gary Freeway",
+  "city": "Clinton",
+  "state": "OK",
+  "zip": "73601",
+  "lat": 35.50237,
+  "lon": -98.988934,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Coweta",
+  "street": "13795 S. St Hwy 51",
+  "city": "Coweta",
+  "state": "OK",
+  "zip": "74429",
+  "lat": 35.962634,
+  "lon": -95.651401,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Cushing",
+  "street": "2004 E. Main St.",
+  "city": "Cushing",
+  "state": "OK",
+  "zip": "74023",
+  "lat": 35.987261,
+  "lon": -96.74006,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Edmond",
+  "street": "3000 E Memorial Road",
+  "city": "Edmond",
+  "state": "OK",
+  "zip": "73013",
+  "lat": 35.608262,
+  "lon": -97.458769,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Elk City",
+  "street": "2901 S. Main",
+  "city": "Elk City",
+  "state": "OK",
+  "zip": "73644",
+  "lat": 35.384545,
+  "lon": -99.40181,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Enid",
+  "street": "5400 W. Owen K. Garriott",
+  "city": "Enid",
+  "state": "OK",
+  "zip": "73703",
+  "lat": 36.393226,
+  "lon": -97.945691,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Kingfisher",
+  "street": "1213 S. Main St.",
+  "city": "Kingfisher",
+  "state": "OK",
+  "zip": "73750",
+  "lat": 35.84828,
+  "lon": -97.931208,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Lawton",
+  "street": "1820 Northwest 52nd St",
+  "city": "Lawton",
+  "state": "OK",
+  "zip": "73505",
+  "lat": 34.628438,
+  "lon": -98.458913,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Madill",
+  "street": "903 S. First Street",
+  "city": "Madill",
+  "state": "OK",
+  "zip": "73446",
+  "lat": 34.079592,
+  "lon": -96.762143,
+  "url": null
+ },
+ {
+  "name": "Atwoods of McAlester",
+  "street": "1510 S. George Nigh Expy.",
+  "city": "McAlester",
+  "state": "OK",
+  "zip": "74501",
+  "lat": 34.890816,
+  "lon": -95.777286,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Mustang",
+  "street": "1020 S Sara Road",
+  "city": "Mustang",
+  "state": "OK",
+  "zip": "73064",
+  "lat": 35.385649,
+  "lon": -97.706797,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Norman",
+  "street": "1719 SW 24th Ave.",
+  "city": "Norman",
+  "state": "OK",
+  "zip": "73072",
+  "lat": 35.198224,
+  "lon": -97.475936,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Owasso",
+  "street": "11510 N. Garnett",
+  "city": "Owasso",
+  "state": "OK",
+  "zip": "74055",
+  "lat": 36.321047,
+  "lon": -95.850267,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Ponca City",
+  "street": "401 E. Prospect Ave.",
+  "city": "Ponca City",
+  "state": "OK",
+  "zip": "74601",
+  "lat": 36.739928,
+  "lon": -97.079632,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Poteau",
+  "street": "2301 North Broadway",
+  "city": "Poteau",
+  "state": "OK",
+  "zip": "74953",
+  "lat": 35.0759,
+  "lon": -94.630701,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Sand Springs",
+  "street": "730 E. Charles Page Blvd.",
+  "city": "Sand Springs",
+  "state": "OK",
+  "zip": "74063",
+  "lat": 36.136648,
+  "lon": -96.098558,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Sapulpa",
+  "street": "806 E. Taft",
+  "city": "Sapulpa",
+  "state": "OK",
+  "zip": "74066",
+  "lat": 35.987168,
+  "lon": -96.102784,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Shawnee",
+  "street": "716 W. Ayre",
+  "city": "Shawnee",
+  "state": "OK",
+  "zip": "74801",
+  "lat": 35.346961,
+  "lon": -96.936176,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Stillwater",
+  "street": "2211 N. Perkins Road",
+  "city": "Stillwater",
+  "state": "OK",
+  "zip": "74075",
+  "lat": 36.144605,
+  "lon": -97.050112,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Tahlequah",
+  "street": "1741 So. Muskogee, Ste. 1",
+  "city": "Tahlequah",
+  "state": "OK",
+  "zip": "74464",
+  "lat": 35.894191,
+  "lon": -94.975545,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Vinita",
+  "street": "728 E. Illinois",
+  "city": "Vinita",
+  "state": "OK",
+  "zip": "74301",
+  "lat": 36.636959,
+  "lon": -95.145347,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Woodward",
+  "street": "3013 Williams Ave.",
+  "city": "Woodward",
+  "state": "OK",
+  "zip": "73801",
+  "lat": 36.415266,
+  "lon": -99.383819,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Yukon",
+  "street": "1670 Shedeck Circle",
+  "city": "Yukon",
+  "state": "OK",
+  "zip": "73099",
+  "lat": 35.5067,
+  "lon": -97.7625,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Alvarado",
+  "street": "1011 N Cummings Dr.",
+  "city": "Alvarado",
+  "state": "TX",
+  "zip": "76009",
+  "lat": 32.41981933213741,
+  "lon": -97.21511841604473,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Cleburne",
+  "street": "1998 East Kilpatrick Ave",
+  "city": "Cleburne",
+  "state": "TX",
+  "zip": "76031",
+  "lat": 32.3474,
+  "lon": -97.3374,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Corsicana",
+  "street": "3500 W. 7th Avenue",
+  "city": "Corsicana",
+  "state": "TX",
+  "zip": "75110",
+  "lat": 32.073241,
+  "lon": -96.502592,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Cross Roads",
+  "street": "3401 S US Hwy 377",
+  "city": "Cross Roads",
+  "state": "TX",
+  "zip": "76227",
+  "lat": 33.237825,
+  "lon": -96.996771,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Crowley",
+  "street": "1380 East FM 1187",
+  "city": "Crowley",
+  "state": "TX",
+  "zip": "76036",
+  "lat": 32.578965,
+  "lon": -97.312003,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Brownwood",
+  "street": "1701 Early Blvd",
+  "city": "Early",
+  "state": "TX",
+  "zip": "76802",
+  "lat": 31.753053,
+  "lon": -98.916044,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Lake Worth",
+  "street": "6001 Lake Worth Blvd.",
+  "city": "Fort Worth",
+  "state": "TX",
+  "zip": "76135",
+  "lat": 32.804005,
+  "lon": -97.413934,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Gainesville",
+  "street": "811 E. HWY 82",
+  "city": "Gainesville",
+  "state": "TX",
+  "zip": "76240",
+  "lat": 33.642733,
+  "lon": -97.138051,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Greenville",
+  "street": "5222 Wesley",
+  "city": "Greenville",
+  "state": "TX",
+  "zip": "75402",
+  "lat": 33.116731,
+  "lon": -96.111066,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Hewitt",
+  "street": "701 Alliance Parkway",
+  "city": "Hewitt",
+  "state": "TX",
+  "zip": "76643",
+  "lat": 31.46386,
+  "lon": -97.173723,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Jacksonville",
+  "street": "1824 S. Jackson",
+  "city": "Jacksonville",
+  "state": "TX",
+  "zip": "75766",
+  "lat": 31.9638,
+  "lon": -95.2705,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Kilgore",
+  "street": "1811 US Highway 259 North",
+  "city": "Kilgore",
+  "state": "TX",
+  "zip": "75662",
+  "lat": 32.400364,
+  "lon": -94.855002,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Waco",
+  "street": "4501 I35 N.",
+  "city": "Lacy-Lakeview",
+  "state": "TX",
+  "zip": "76705",
+  "lat": 31.606743,
+  "lon": -97.108538,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Lufkin",
+  "street": "3061 S John Redditt Dr",
+  "city": "Lufkin",
+  "state": "TX",
+  "zip": "75904",
+  "lat": 31.31114,
+  "lon": -94.72821,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Mabank",
+  "street": "801 N 3rd Street",
+  "city": "Mabank",
+  "state": "TX",
+  "zip": "75147",
+  "lat": 32.375775,
+  "lon": -96.095425,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Mineral Wells",
+  "street": "941 Farm to Market Rd 1821 Ste F",
+  "city": "Mineral Wells",
+  "state": "TX",
+  "zip": "76067",
+  "lat": 32.815589,
+  "lon": -98.086254,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Mount Pleasant",
+  "street": "2621 West Ferguson",
+  "city": "Mount Pleasant",
+  "state": "TX",
+  "zip": "75455",
+  "lat": 33.17521,
+  "lon": -95.00421,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Nacogdoches",
+  "street": "4001 North St.",
+  "city": "Nacogdoches",
+  "state": "TX",
+  "zip": "75965",
+  "lat": 31.641695,
+  "lon": -94.654792,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Texarkana",
+  "street": "111 Atwoods Dr",
+  "city": "Nash",
+  "state": "TX",
+  "zip": "75569",
+  "lat": 33.44182,
+  "lon": -94.129028,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Palestine",
+  "street": "804 E Newman Street",
+  "city": "Palestine",
+  "state": "TX",
+  "zip": "75801",
+  "lat": 31.774187,
+  "lon": -95.618589,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Paris",
+  "street": "2445 North Main",
+  "city": "Paris",
+  "state": "TX",
+  "zip": "75460",
+  "lat": 33.685052,
+  "lon": -95.55647,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Stephenville",
+  "street": "1800 N US 281",
+  "city": "Stephenville",
+  "state": "TX",
+  "zip": "76401",
+  "lat": 32.24823,
+  "lon": -98.19314,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Sulphur Springs",
+  "street": "817 Gilmer St",
+  "city": "Sulphur Springs",
+  "state": "TX",
+  "zip": "75482",
+  "lat": 33.126891,
+  "lon": -95.600041,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Temple",
+  "street": "5501 North General Bruce Drive",
+  "city": "Temple",
+  "state": "TX",
+  "zip": "76501",
+  "lat": 31.1261267,
+  "lon": -97.338897,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Tyler",
+  "street": "3000 W. Northwest Loop 323",
+  "city": "Tyler",
+  "state": "TX",
+  "zip": "75702",
+  "lat": 32.378566,
+  "lon": -95.335425,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Waxahachie",
+  "street": "2825 Aspen Way",
+  "city": "Waxahachie",
+  "state": "TX",
+  "zip": "75165",
+  "lat": 32.455009,
+  "lon": -96.840453,
+  "url": null
+ },
+ {
+  "name": "Atwoods of Wichita Falls",
+  "street": "2047 Loop 11",
+  "city": "Wichita Falls",
+  "state": "TX",
+  "zip": "76306",
+  "lat": 33.944809,
+  "lon": -98.530422,
+  "url": null
+ }
+]

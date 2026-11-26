@@ -20,3 +20,14 @@ It is a plain HTML/CSS site with no build step:
 This site is set up for [Netlify](https://www.netlify.com/) (free plan). The contact form uses
 Netlify Forms (`data-netlify="true"`). Netlify collects the submissions and can email them to you,
 so your email address never appears on the site.
+
+## Store map
+
+The "Where to Buy" map reads `js/stores.js`, which is generated from the per-retailer lists in
+`data/stores/`. To add or fix a store, edit the matching JSON file there, then run:
+
+    python3 tools/build_stores.py
+
+Sources (November 2026): each retailer's own store locator, plus All The Places
+(alltheplaces.xyz) for Rural King, Bomgaars, Runnings, Fleet Farm and both Big R chains.
+Theisen's is not on the map yet (`data/stores/theisens.json` is empty).

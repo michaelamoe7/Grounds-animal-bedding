@@ -1,0 +1,472 @@
+[
+ {
+  "name": "Castle Rock",
+  "street": "100 Founders Parkway, Unit A",
+  "city": "Castle Rock",
+  "state": "CO",
+  "zip": "80104",
+  "lat": 39.411931,
+  "lon": -104.863675,
+  "url": "https://www.murdochs.com/stores/castle-rock/"
+ },
+ {
+  "name": "Clifton",
+  "street": "3217 I-70 Business Loop",
+  "city": "Clifton",
+  "state": "CO",
+  "zip": "81520",
+  "lat": 39.08858,
+  "lon": -108.455342,
+  "url": "https://www.murdochs.com/stores/clifton/"
+ },
+ {
+  "name": "Craig",
+  "street": "2355 W Victory Way",
+  "city": "Craig",
+  "state": "CO",
+  "zip": "81625",
+  "lat": 40.51528,
+  "lon": -107.573326,
+  "url": "https://www.murdochs.com/stores/craig/"
+ },
+ {
+  "name": "Fort Collins",
+  "street": "135 Bockman Dr",
+  "city": "Fort Collins",
+  "state": "CO",
+  "zip": "80525",
+  "lat": 40.534429,
+  "lon": -105.075541,
+  "url": "https://www.murdochs.com/stores/fort-collins/"
+ },
+ {
+  "name": "Fort Morgan",
+  "street": "1207 W Platte Ave",
+  "city": "Fort Morgan",
+  "state": "CO",
+  "zip": "80701",
+  "lat": 40.255812,
+  "lon": -103.816887,
+  "url": "https://www.murdochs.com/stores/fort-morgan/"
+ },
+ {
+  "name": "Fraser",
+  "street": "541 Zerex St",
+  "city": "Fraser",
+  "state": "CO",
+  "zip": "80442",
+  "lat": 39.942678,
+  "lon": -105.812044,
+  "url": "https://www.murdochs.com/stores/fraser/"
+ },
+ {
+  "name": "Greeley",
+  "street": "310 8th St",
+  "city": "Greeley",
+  "state": "CO",
+  "zip": "80631",
+  "lat": 40.424253,
+  "lon": -104.68257,
+  "url": "https://www.murdochs.com/stores/greeley/"
+ },
+ {
+  "name": "Johnstown",
+  "street": "4450 Ledge Rock Dr",
+  "city": "Johnstown",
+  "state": "CO",
+  "zip": "80534",
+  "lat": 40.350618,
+  "lon": -104.942929,
+  "url": "https://www.murdochs.com/stores/johnstown/"
+ },
+ {
+  "name": "Littleton",
+  "street": "12154 N Dumont Way",
+  "city": "Littleton",
+  "state": "CO",
+  "zip": "80125",
+  "lat": 39.53942,
+  "lon": -105.037056,
+  "url": "https://www.murdochs.com/stores/littleton/"
+ },
+ {
+  "name": "Longmont",
+  "street": "2255 N Main St Suite #107",
+  "city": "Longmont",
+  "state": "CO",
+  "zip": "80501",
+  "lat": 40.199383,
+  "lon": -105.102624,
+  "url": "https://www.murdochs.com/stores/longmont/"
+ },
+ {
+  "name": "Montrose",
+  "street": "2151 S Townsend Ave",
+  "city": "Montrose",
+  "state": "CO",
+  "zip": "81401",
+  "lat": 38.46342,
+  "lon": -107.86461,
+  "url": "https://www.murdochs.com/stores/montrose/"
+ },
+ {
+  "name": "Parker",
+  "street": "9853 S Parker Rd",
+  "city": "Parker",
+  "state": "CO",
+  "zip": "80134",
+  "lat": 39.538086,
+  "lon": -104.768765,
+  "url": "https://www.murdochs.com/stores/parker/"
+ },
+ {
+  "name": "Salida",
+  "street": "201 E Rainbow Blvd US 50",
+  "city": "Salida",
+  "state": "CO",
+  "zip": "81201",
+  "lat": 38.524021,
+  "lon": -106.001839,
+  "url": "https://www.murdochs.com/stores/salida/"
+ },
+ {
+  "name": "Silverthorne",
+  "street": "1241 Blue River Parkway",
+  "city": "Silverthorne",
+  "state": "CO",
+  "zip": "80498",
+  "lat": 39.64364,
+  "lon": -106.079293,
+  "url": "https://www.murdochs.com/stores/silverthorne/"
+ },
+ {
+  "name": "Westminster",
+  "street": "9150 Wadsworth Parkway",
+  "city": "Westminster",
+  "state": "CO",
+  "zip": "80021",
+  "lat": 39.86232,
+  "lon": -105.08074,
+  "url": "https://www.murdochs.com/stores/westminster/"
+ },
+ {
+  "name": "Salmon",
+  "street": "520 Shoup St",
+  "city": "Salmon",
+  "state": "ID",
+  "zip": "83467",
+  "lat": 45.177194,
+  "lon": -113.892233,
+  "url": "https://www.murdochs.com/stores/salmon/"
+ },
+ {
+  "name": "Anaconda",
+  "street": "75 Fillmore Street",
+  "city": "Anaconda",
+  "state": "MT",
+  "zip": "59711",
+  "lat": 46.127089,
+  "lon": -112.931641,
+  "url": "https://www.murdochs.com/stores/anaconda/"
+ },
+ {
+  "name": "Belgrade",
+  "street": "100 Liscom Ave",
+  "city": "Belgrade",
+  "state": "MT",
+  "zip": "59714",
+  "lat": 45.793571,
+  "lon": -111.180422,
+  "url": "https://www.murdochs.com/stores/belgrade/"
+ },
+ {
+  "name": "Bozeman",
+  "street": "2275 N 7th Ave",
+  "city": "Bozeman",
+  "state": "MT",
+  "zip": "59715",
+  "lat": 45.701039,
+  "lon": -111.04746,
+  "url": "https://www.murdochs.com/stores/bozeman/"
+ },
+ {
+  "name": "Four Corners",
+  "street": "822 Jackrabbit Lane",
+  "city": "Bozeman",
+  "state": "MT",
+  "zip": "59718",
+  "lat": 45.683239,
+  "lon": -111.184656,
+  "url": "https://www.murdochs.com/stores/bozeman-four-corners/"
+ },
+ {
+  "name": "Butte",
+  "street": "3939 Harrison Ave",
+  "city": "Butte",
+  "state": "MT",
+  "zip": "59701",
+  "lat": 45.960871,
+  "lon": -112.5101,
+  "url": "https://www.murdochs.com/stores/butte/"
+ },
+ {
+  "name": "Columbia Falls",
+  "street": "3115 MT Highway 40 W",
+  "city": "Columbia Falls",
+  "state": "MT",
+  "zip": "59912",
+  "lat": 48.371752,
+  "lon": -114.242432,
+  "url": "https://www.murdochs.com/stores/columbia-falls/"
+ },
+ {
+  "name": "Dillon",
+  "street": "851 N Montana",
+  "city": "Dillon",
+  "state": "MT",
+  "zip": "59725",
+  "lat": 45.231728,
+  "lon": -112.624717,
+  "url": "https://www.murdochs.com/stores/dillon/"
+ },
+ {
+  "name": "Hamilton",
+  "street": "1189 S 1st Street",
+  "city": "Hamilton",
+  "state": "MT",
+  "zip": "59840",
+  "lat": 46.23019,
+  "lon": -114.156507,
+  "url": "https://www.murdochs.com/stores/hamilton/"
+ },
+ {
+  "name": "Helena",
+  "street": "3050 N Montana Ave",
+  "city": "Helena",
+  "state": "MT",
+  "zip": "59601",
+  "lat": 46.615743,
+  "lon": -112.02321,
+  "url": "https://www.murdochs.com/stores/helena/"
+ },
+ {
+  "name": "Kalispell",
+  "street": "2330 US Highway 93 S",
+  "city": "Kalispell",
+  "state": "MT",
+  "zip": "59901",
+  "lat": 48.174617,
+  "lon": -114.297886,
+  "url": "https://www.murdochs.com/stores/kalispell/"
+ },
+ {
+  "name": "Livingston",
+  "street": "2420 South Park St",
+  "city": "Livingston",
+  "state": "MT",
+  "zip": "59047",
+  "lat": 45.639277,
+  "lon": -110.575537,
+  "url": "https://www.murdochs.com/stores/livingston/"
+ },
+ {
+  "name": "Miles City",
+  "street": "620 Meadows Drive",
+  "city": "Miles City",
+  "state": "MT",
+  "zip": "59301",
+  "lat": 46.402044,
+  "lon": -105.818746,
+  "url": "https://www.murdochs.com/stores/miles-city/"
+ },
+ {
+  "name": "Missoula",
+  "street": "2801 W Broadway",
+  "city": "Missoula",
+  "state": "MT",
+  "zip": "59808",
+  "lat": 46.89066,
+  "lon": -114.030855,
+  "url": "https://www.murdochs.com/stores/missoula/"
+ },
+ {
+  "name": "Polson",
+  "street": "170 Heritage Lane",
+  "city": "Polson",
+  "state": "MT",
+  "zip": "59860",
+  "lat": 47.686064,
+  "lon": -114.121928,
+  "url": "https://www.murdochs.com/stores/polson/"
+ },
+ {
+  "name": "Scottsbluff",
+  "street": "1510 E 20th St",
+  "city": "Scottsbluff",
+  "state": "NE",
+  "zip": "69361",
+  "lat": 41.86589,
+  "lon": -103.642502,
+  "url": "https://www.murdochs.com/stores/scottsbluff/"
+ },
+ {
+  "name": "Alvin",
+  "street": "2500 S Bypass 35",
+  "city": "Alvin",
+  "state": "TX",
+  "zip": "77511",
+  "lat": 29.406874,
+  "lon": -95.237154,
+  "url": "https://www.murdochs.com/stores/alvin/"
+ },
+ {
+  "name": "College Station",
+  "street": "1502 Harvey Rd",
+  "city": "College Station",
+  "state": "TX",
+  "zip": "77840",
+  "lat": 30.628107,
+  "lon": -96.304049,
+  "url": "https://www.murdochs.com/stores/college-station/"
+ },
+ {
+  "name": "Killeen",
+  "street": "701 E Central Texas Expy",
+  "city": "Killeen",
+  "state": "TX",
+  "zip": "76541",
+  "lat": 31.095987,
+  "lon": -97.734562,
+  "url": "https://www.murdochs.com/stores/killeen/"
+ },
+ {
+  "name": "Mission",
+  "street": "311 South Bryan Road",
+  "city": "Mission",
+  "state": "TX",
+  "zip": "78572",
+  "lat": 26.201433,
+  "lon": -98.311801,
+  "url": "https://www.murdochs.com/stores/mission/"
+ },
+ {
+  "name": "San Angelo",
+  "street": "4001 Sunset Drive",
+  "city": "San Angelo",
+  "state": "TX",
+  "zip": "76904",
+  "lat": 31.42841,
+  "lon": -100.495806,
+  "url": "https://www.murdochs.com/stores/san-angelo/"
+ },
+ {
+  "name": "San Marcos",
+  "street": "4200 IH 35 South",
+  "city": "San Marcos",
+  "state": "TX",
+  "zip": "78666",
+  "lat": 29.826294,
+  "lon": -97.987801,
+  "url": "https://www.murdochs.com/stores/san-marcos/"
+ },
+ {
+  "name": "Schertz",
+  "street": "17975 IH 35 N, STE B200",
+  "city": "Schertz",
+  "state": "TX",
+  "zip": "78154",
+  "lat": 29.601529,
+  "lon": -98.275787,
+  "url": "https://www.murdochs.com/stores/schertz/"
+ },
+ {
+  "name": "Seguin",
+  "street": "516 IH 10 E, Frontage Rd",
+  "city": "Seguin",
+  "state": "TX",
+  "zip": "78155",
+  "lat": 29.559231,
+  "lon": -97.966151,
+  "url": "https://www.murdochs.com/stores/seguin/"
+ },
+ {
+  "name": "Victoria",
+  "street": "7508 N Navarro",
+  "city": "Victoria",
+  "state": "TX",
+  "zip": "77904",
+  "lat": 28.864878,
+  "lon": -96.99705,
+  "url": "https://www.murdochs.com/stores/victoria/"
+ },
+ {
+  "name": "Cheyenne",
+  "street": "3773 E Lincolnway",
+  "city": "Cheyenne",
+  "state": "WY",
+  "zip": "82001",
+  "lat": 41.139378,
+  "lon": -104.763095,
+  "url": "https://www.murdochs.com/stores/cheyenne/"
+ },
+ {
+  "name": "Evanston",
+  "street": "120 Beckers Circle",
+  "city": "Evanston",
+  "state": "WY",
+  "zip": "82930",
+  "lat": 41.26458,
+  "lon": -110.955685,
+  "url": "https://www.murdochs.com/stores/evanston/"
+ },
+ {
+  "name": "Casper-Evansville",
+  "street": "370 Miracle Rd",
+  "city": "Evansville",
+  "state": "WY",
+  "zip": "82636",
+  "lat": 42.85518,
+  "lon": -106.266611,
+  "url": "https://www.murdochs.com/stores/casper/"
+ },
+ {
+  "name": "Laramie",
+  "street": "3322 E Grand Ave",
+  "city": "Laramie",
+  "state": "WY",
+  "zip": "82070",
+  "lat": 41.307615,
+  "lon": -105.55336,
+  "url": "https://www.murdochs.com/stores/laramie/"
+ },
+ {
+  "name": "Powell",
+  "street": "455 S Absaroka Street",
+  "city": "Powell",
+  "state": "WY",
+  "zip": "82435",
+  "lat": 44.748391,
+  "lon": -108.758845,
+  "url": "https://www.murdochs.com/stores/powell/"
+ },
+ {
+  "name": "Riverton",
+  "street": "708 N Federal  Blvd",
+  "city": "Riverton",
+  "state": "WY",
+  "zip": "82501",
+  "lat": 43.030561,
+  "lon": -108.38075,
+  "url": "https://www.murdochs.com/stores/riverton/"
+ },
+ {
+  "name": "Rock Springs",
+  "street": "2401 Foothill Blvd",
+  "city": "Rock Springs",
+  "state": "WY",
+  "zip": "82901",
+  "lat": 41.58058,
+  "lon": -109.265489,
+  "url": "https://www.murdochs.com/stores/rock-springs/"
+ }
+]

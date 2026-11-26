@@ -1,0 +1,152 @@
+[
+ {
+  "name": "Fort Madison, IA",
+  "street": "4810 Avenue O",
+  "city": "Fort Madison",
+  "state": "IA",
+  "zip": "52627",
+  "lat": 40.6225739,
+  "lon": -91.3742063,
+  "url": "https://www.farmandhomesupply.com/fort-madison-store"
+ },
+ {
+  "name": "Keokuk, IA",
+  "street": "2028 Main Street",
+  "city": "Keokuk",
+  "state": "IA",
+  "zip": "52632",
+  "lat": 40.407407,
+  "lon": -91.397263,
+  "url": "https://www.farmandhomesupply.com/keokuk-store"
+ },
+ {
+  "name": "Alton, IL",
+  "street": "2600 Homer Adams Parkway",
+  "city": "Alton",
+  "state": "IL",
+  "zip": "62002",
+  "lat": 38.9172913,
+  "lon": -90.1464271,
+  "url": "https://www.farmandhomesupply.com/alton-store"
+ },
+ {
+  "name": "Havana, IL",
+  "street": "1001 E. Laurel Ave.",
+  "city": "Havana",
+  "state": "IL",
+  "zip": "62644",
+  "lat": 40.2954897,
+  "lon": -90.0431018,
+  "url": "https://www.farmandhomesupply.com/havana-store"
+ },
+ {
+  "name": "Jacksonville, IL",
+  "street": "1203 W. Morton",
+  "city": "Jacksonville",
+  "state": "IL",
+  "zip": "62650",
+  "lat": 39.7212596,
+  "lon": -90.2488916,
+  "url": "https://www.farmandhomesupply.com/jacksonville-store"
+ },
+ {
+  "name": "Jerseyville, IL",
+  "street": "725 E. State Hwy 16",
+  "city": "Jerseyville",
+  "state": "IL",
+  "zip": "62052",
+  "lat": 39.1176703,
+  "lon": -90.3164219,
+  "url": "https://www.farmandhomesupply.com/jerseyville-store"
+ },
+ {
+  "name": "Lincoln, IL",
+  "street": "1501 Woodlawn Rd.",
+  "city": "Lincoln",
+  "state": "IL",
+  "zip": "62656",
+  "lat": 40.156433,
+  "lon": -89.3948468,
+  "url": "https://www.farmandhomesupply.com/lincoln-illinois-store"
+ },
+ {
+  "name": "Pittsfield, IL",
+  "street": "1343 W. Washington",
+  "city": "Pittsfield",
+  "state": "IL",
+  "zip": "62363",
+  "lat": 39.603878,
+  "lon": -90.8429771,
+  "url": "https://www.farmandhomesupply.com/pittsfield-store"
+ },
+ {
+  "name": "Quincy, IL",
+  "street": "4625 Broadway",
+  "city": "Quincy",
+  "state": "IL",
+  "zip": "62305",
+  "lat": 39.9367493,
+  "lon": -91.3422539,
+  "url": "https://www.farmandhomesupply.com/quincy-store"
+ },
+ {
+  "name": "Springfield, IL",
+  "street": "2804 N. Dirksen Parkway",
+  "city": "Springfield",
+  "state": "IL",
+  "zip": "62702",
+  "lat": 39.8412637,
+  "lon": -89.6027874,
+  "url": "https://www.farmandhomesupply.com/springfield-east-store"
+ },
+ {
+  "name": "Springfield, IL (West)",
+  "street": "3030 Wabash",
+  "city": "Springfield",
+  "state": "IL",
+  "zip": "62704",
+  "lat": 39.7614985,
+  "lon": -89.7101417,
+  "url": "https://www.farmandhomesupply.com/springfield-west-store"
+ },
+ {
+  "name": "Taylorville, IL",
+  "street": "1160 E. 1500 North Road",
+  "city": "Taylorville",
+  "state": "IL",
+  "zip": "62568",
+  "lat": 39.5665085,
+  "lon": -89.3150124,
+  "url": "https://www.farmandhomesupply.com/taylorville-illinois-store"
+ },
+ {
+  "name": "Cottleville MO",
+  "street": "5995 Mid Rivers Mall Drive",
+  "city": "Cottleville",
+  "state": "MO",
+  "zip": "63304",
+  "lat": 38.7495799,
+  "lon": -90.6374802,
+  "url": "https://www.farmandhomesupply.com/cottleville-store"
+ },
+ {
+  "name": "Hannibal, MO",
+  "street": "2959 Palmyra Road",
+  "city": "Hannibal",
+  "state": "MO",
+  "zip": "63401",
+  "lat": 39.7276306,
+  "lon": -91.3967854,
+  "url": "https://www.farmandhomesupply.com/hannibal-store"
+ },
+ {
+  "name": "High Ridge, MO",
+  "street": "4560 Gravois Village Center",
+  "city": "High Ridge",
+  "state": "MO",
+  "zip": "63049",
+  "lat": 38.4861086,
+  "lon": -90.5047396,
+  "url": "https://www.farmandhomesupply.com/high-ridge-store"
+ }
+]

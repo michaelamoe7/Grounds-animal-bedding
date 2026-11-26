@@ -1,0 +1,822 @@
+[
+ {
+  "name": "Auburn",
+  "street": "350 N. Grandstaff Dr.",
+  "city": "Auburn",
+  "state": "IN",
+  "zip": "46706",
+  "lat": 41.370322,
+  "lon": -85.069937,
+  "url": null
+ },
+ {
+  "name": "Bluffton",
+  "street": "990 N. Main St.",
+  "city": "Bluffton",
+  "state": "IN",
+  "zip": "46714",
+  "lat": 40.756374,
+  "lon": -85.167143,
+  "url": null
+ },
+ {
+  "name": "Crawfordsville",
+  "street": "1440 Darlington Ave",
+  "city": "Crawfordsville",
+  "state": "IN",
+  "zip": "47933",
+  "lat": 40.04683,
+  "lon": -86.87839,
+  "url": null
+ },
+ {
+  "name": "Kokomo",
+  "street": "2136 E Markland Ave",
+  "city": "Kokomo",
+  "state": "IN",
+  "zip": "46901",
+  "lat": 40.481205,
+  "lon": -86.141815,
+  "url": null
+ },
+ {
+  "name": "Peru",
+  "street": "780 N. Broadway",
+  "city": "Peru",
+  "state": "IN",
+  "zip": "46970",
+  "lat": 40.766399,
+  "lon": -86.078924,
+  "url": null
+ },
+ {
+  "name": "Hagerstown",
+  "street": "1539 Potomac Ave",
+  "city": "Hagerstown",
+  "state": "MD",
+  "zip": "21742",
+  "lat": 39.664224,
+  "lon": -77.702654,
+  "url": null
+ },
+ {
+  "name": "Adrian",
+  "street": "1392 S. Main St.",
+  "city": "Adrian",
+  "state": "MI",
+  "zip": "49221",
+  "lat": 41.87746,
+  "lon": -84.043203,
+  "url": null
+ },
+ {
+  "name": "Allegan",
+  "street": "1596 Lincoln Road",
+  "city": "Allegan",
+  "state": "MI",
+  "zip": "49010",
+  "lat": 42.53489,
+  "lon": -85.875409,
+  "url": null
+ },
+ {
+  "name": "Allendale",
+  "street": "6101 Lake Michigan Drive",
+  "city": "Allendale",
+  "state": "MI",
+  "zip": "49401",
+  "lat": 42.974011,
+  "lon": -85.936386,
+  "url": null
+ },
+ {
+  "name": "Alma",
+  "street": "7600 North Alger Road",
+  "city": "Alma",
+  "state": "MI",
+  "zip": "48801",
+  "lat": 43.401266,
+  "lon": -84.664147,
+  "url": null
+ },
+ {
+  "name": "Almont",
+  "street": "888 Van Dyke Highway",
+  "city": "Almont",
+  "state": "MI",
+  "zip": "48003",
+  "lat": 42.929125,
+  "lon": -83.049053,
+  "url": null
+ },
+ {
+  "name": "Alpena",
+  "street": "2680 US Highway 23 South",
+  "city": "Alpena",
+  "state": "MI",
+  "zip": "49707",
+  "lat": 45.03385,
+  "lon": -83.46626,
+  "url": null
+ },
+ {
+  "name": "Bad Axe",
+  "street": "760 N Van Dyke Suite A",
+  "city": "Bad Axe",
+  "state": "MI",
+  "zip": "48413",
+  "lat": 43.811175,
+  "lon": -83.000761,
+  "url": null
+ },
+ {
+  "name": "Battle Creek",
+  "street": "1675 West Michigan Ave.",
+  "city": "Battle Creek",
+  "state": "MI",
+  "zip": "49017",
+  "lat": 42.346033,
+  "lon": -85.239982,
+  "url": null
+ },
+ {
+  "name": "Bay City",
+  "street": "1001 N Euclid Ave",
+  "city": "Bay City",
+  "state": "MI",
+  "zip": "48706",
+  "lat": 43.614753,
+  "lon": -83.915995,
+  "url": null
+ },
+ {
+  "name": "Benton Harbor",
+  "street": "1391 Cinema Way",
+  "city": "Benton Harbor",
+  "state": "MI",
+  "zip": "49022",
+  "lat": 42.076403,
+  "lon": -86.42656,
+  "url": null
+ },
+ {
+  "name": "Big Rapids",
+  "street": "1250 Perry Ave",
+  "city": "Big Rapids",
+  "state": "MI",
+  "zip": "49307",
+  "lat": 43.688887,
+  "lon": -85.500224,
+  "url": null
+ },
+ {
+  "name": "Brooklyn",
+  "street": "400 S. Main Street",
+  "city": "Brooklyn",
+  "state": "MI",
+  "zip": "49230",
+  "lat": 42.098715,
+  "lon": -84.249006,
+  "url": null
+ },
+ {
+  "name": "Burton",
+  "street": "1145 North Belsay Road",
+  "city": "Burton",
+  "state": "MI",
+  "zip": "48509",
+  "lat": 43.024038,
+  "lon": -83.597921,
+  "url": null
+ },
+ {
+  "name": "Cadillac",
+  "street": "2025 North Mitchell",
+  "city": "Cadillac",
+  "state": "MI",
+  "zip": "49601",
+  "lat": 44.278648,
+  "lon": -85.408131,
+  "url": null
+ },
+ {
+  "name": "Cedar Springs",
+  "street": "4175 17 Mile Rd.",
+  "city": "Cedar Springs",
+  "state": "MI",
+  "zip": "49319",
+  "lat": 43.221298,
+  "lon": -85.566838,
+  "url": null
+ },
+ {
+  "name": "Charlevoix",
+  "street": "6500 M66 North",
+  "city": "Charlevoix",
+  "state": "MI",
+  "zip": "49720",
+  "lat": 45.297703,
+  "lon": -85.253986,
+  "url": null
+ },
+ {
+  "name": "Charlotte",
+  "street": "1658 Lansing Road",
+  "city": "Charlotte",
+  "state": "MI",
+  "zip": "48813",
+  "lat": 42.58309,
+  "lon": -84.802199,
+  "url": null
+ },
+ {
+  "name": "Chelsea",
+  "street": "1040 South Main Street",
+  "city": "Chelsea",
+  "state": "MI",
+  "zip": "48118",
+  "lat": 42.305783,
+  "lon": -84.023516,
+  "url": null
+ },
+ {
+  "name": "Clare",
+  "street": "10360 S. Clare Avenue",
+  "city": "Clare",
+  "state": "MI",
+  "zip": "48617",
+  "lat": 43.837845,
+  "lon": -84.770613,
+  "url": null
+ },
+ {
+  "name": "Clio",
+  "street": "4290 W Vienna Road",
+  "city": "Clio",
+  "state": "MI",
+  "zip": "48420",
+  "lat": 43.179773,
+  "lon": -83.764938,
+  "url": null
+ },
+ {
+  "name": "Coldwater",
+  "street": "910 East Chicago Road",
+  "city": "Coldwater",
+  "state": "MI",
+  "zip": "49036",
+  "lat": 41.933435,
+  "lon": -84.96241,
+  "url": null
+ },
+ {
+  "name": "Corunna",
+  "street": "2500 East M-21",
+  "city": "Corunna",
+  "state": "MI",
+  "zip": "48817",
+  "lat": 42.997064,
+  "lon": -84.1175,
+  "url": null
+ },
+ {
+  "name": "Flat Rock",
+  "street": "27311 Telegraph Road",
+  "city": "Flat Rock",
+  "state": "MI",
+  "zip": "48134",
+  "lat": 42.105792,
+  "lon": -83.287485,
+  "url": null
+ },
+ {
+  "name": "Fremont",
+  "street": "921 W Main Street",
+  "city": "Fremont",
+  "state": "MI",
+  "zip": "49412",
+  "lat": 43.467814,
+  "lon": -85.960967,
+  "url": null
+ },
+ {
+  "name": "Gaylord",
+  "street": "1401 W. Main Street",
+  "city": "Gaylord",
+  "state": "MI",
+  "zip": "49735",
+  "lat": 45.025317,
+  "lon": -84.701471,
+  "url": null
+ },
+ {
+  "name": "Gladwin",
+  "street": "1260 E. Cedar Ave.",
+  "city": "Gladwin",
+  "state": "MI",
+  "zip": "48624",
+  "lat": 43.979429,
+  "lon": -84.467634,
+  "url": null
+ },
+ {
+  "name": "Grand Rapids",
+  "street": "4325 Plainfield Ave., NE",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "zip": "49525",
+  "lat": 43.042096,
+  "lon": -85.610766,
+  "url": null
+ },
+ {
+  "name": "Greenville",
+  "street": "1325 W Washington",
+  "city": "Greenville",
+  "state": "MI",
+  "zip": "48838",
+  "lat": 43.176468,
+  "lon": -85.276457,
+  "url": null
+ },
+ {
+  "name": "Hastings",
+  "street": "760 W. State Street, Suite A",
+  "city": "Hastings",
+  "state": "MI",
+  "zip": "49058",
+  "lat": 42.648825,
+  "lon": -85.294972,
+  "url": null
+ },
+ {
+  "name": "Hillsdale",
+  "street": "2994 W Carleton Rd",
+  "city": "Hillsdale",
+  "state": "MI",
+  "zip": "49242",
+  "lat": 41.944246,
+  "lon": -84.651254,
+  "url": null
+ },
+ {
+  "name": "Holland",
+  "street": "716 Chicago Drive, Suite 500",
+  "city": "Holland",
+  "state": "MI",
+  "zip": "49423",
+  "lat": 42.796161,
+  "lon": -86.075179,
+  "url": null
+ },
+ {
+  "name": "Howell",
+  "street": "3685 E. Grand River Avenue",
+  "city": "Howell",
+  "state": "MI",
+  "zip": "48843",
+  "lat": 42.590127,
+  "lon": -83.879657,
+  "url": null
+ },
+ {
+  "name": "Imlay City",
+  "street": "1995 South Cedar Street",
+  "city": "Imlay City",
+  "state": "MI",
+  "zip": "48444",
+  "lat": 43.007561,
+  "lon": -83.070381,
+  "url": null
+ },
+ {
+  "name": "Kalkaska",
+  "street": "784 S. Cedar Street",
+  "city": "Kalkaska",
+  "state": "MI",
+  "zip": "49646",
+  "lat": 44.721499,
+  "lon": -85.187381,
+  "url": null
+ },
+ {
+  "name": "Manistee",
+  "street": "1183 US Highway 31S",
+  "city": "Manistee",
+  "state": "MI",
+  "zip": "49660",
+  "lat": 44.232023,
+  "lon": -86.310904,
+  "url": null
+ },
+ {
+  "name": "Mason",
+  "street": "558 N. Cedar Street",
+  "city": "Mason",
+  "state": "MI",
+  "zip": "48854",
+  "lat": 42.598191,
+  "lon": -84.47167,
+  "url": null
+ },
+ {
+  "name": "Monroe",
+  "street": "205 N. Telegraph Road",
+  "city": "Monroe",
+  "state": "MI",
+  "zip": "48162",
+  "lat": 41.925681,
+  "lon": -83.415128,
+  "url": null
+ },
+ {
+  "name": "Fruitport",
+  "street": "5580 Harvey St.",
+  "city": "Muskegon",
+  "state": "MI",
+  "zip": "49444",
+  "lat": 43.150777,
+  "lon": -86.205559,
+  "url": null
+ },
+ {
+  "name": "Muskegon",
+  "street": "2301 Holton Road",
+  "city": "Muskegon",
+  "state": "MI",
+  "zip": "49445",
+  "lat": 43.29671,
+  "lon": -86.202904,
+  "url": null
+ },
+ {
+  "name": "Newaygo",
+  "street": "139 West River Valley Drive",
+  "city": "Newaygo",
+  "state": "MI",
+  "zip": "49337",
+  "lat": 43.406562,
+  "lon": -85.797254,
+  "url": null
+ },
+ {
+  "name": "Portland",
+  "street": "1870 E. Grand River Ave.",
+  "city": "Portland",
+  "state": "MI",
+  "zip": "48875",
+  "lat": 42.855941,
+  "lon": -84.882768,
+  "url": null
+ },
+ {
+  "name": "Reed City",
+  "street": "4941 Park Street",
+  "city": "Reed City",
+  "state": "MI",
+  "zip": "49677",
+  "lat": 43.88618,
+  "lon": -85.519923,
+  "url": null
+ },
+ {
+  "name": "Richmond",
+  "street": "66875 Gratiot",
+  "city": "Richmond",
+  "state": "MI",
+  "zip": "48062",
+  "lat": 42.794344,
+  "lon": -82.738335,
+  "url": null
+ },
+ {
+  "name": "Romeo",
+  "street": "66030 Van Dyke",
+  "city": "Romeo",
+  "state": "MI",
+  "zip": "48065",
+  "lat": 42.46476,
+  "lon": -83.0045,
+  "url": null
+ },
+ {
+  "name": "Sandusky",
+  "street": "605 West Sanilac",
+  "city": "Sandusky",
+  "state": "MI",
+  "zip": "48471",
+  "lat": 43.42251,
+  "lon": -82.80666,
+  "url": null
+ },
+ {
+  "name": "Sparta",
+  "street": "53 Applewood Road",
+  "city": "Sparta",
+  "state": "MI",
+  "zip": "49345",
+  "lat": 43.1595,
+  "lon": -85.722658,
+  "url": null
+ },
+ {
+  "name": "St. Johns",
+  "street": "1977 S. Scott Rd.",
+  "city": "St. Johns",
+  "state": "MI",
+  "zip": "48879",
+  "lat": 42.987929,
+  "lon": -84.542427,
+  "url": null
+ },
+ {
+  "name": "Swartz Creek",
+  "street": "4315 Elms Road",
+  "city": "Swartz Creek",
+  "state": "MI",
+  "zip": "48473",
+  "lat": 42.964474,
+  "lon": -83.809262,
+  "url": null
+ },
+ {
+  "name": "Tecumseh",
+  "street": "2655 West Chicago Blvd.",
+  "city": "Tecumseh",
+  "state": "MI",
+  "zip": "49286",
+  "lat": 42.007696,
+  "lon": -83.972622,
+  "url": null
+ },
+ {
+  "name": "Three Rivers",
+  "street": "1326 West Broadway",
+  "city": "Three Rivers",
+  "state": "MI",
+  "zip": "49093",
+  "lat": 41.932536,
+  "lon": -85.651423,
+  "url": null
+ },
+ {
+  "name": "Wayland",
+  "street": "376 Reno Drive",
+  "city": "Wayland",
+  "state": "MI",
+  "zip": "49348",
+  "lat": 42.671287,
+  "lon": -85.65745,
+  "url": null
+ },
+ {
+  "name": "Whitehall",
+  "street": "3165 Colby Rd",
+  "city": "Whitehall",
+  "state": "MI",
+  "zip": "49461",
+  "lat": 43.407505,
+  "lon": -86.323288,
+  "url": null
+ },
+ {
+  "name": "Alliance",
+  "street": "1370 East State Street",
+  "city": "Alliance",
+  "state": "OH",
+  "zip": "44601",
+  "lat": 40.902717,
+  "lon": -81.088425,
+  "url": null
+ },
+ {
+  "name": "Austintown",
+  "street": "4477 Mahoning Ave.",
+  "city": "Austintown",
+  "state": "OH",
+  "zip": "44515",
+  "lat": 41.100634,
+  "lon": -80.735958,
+  "url": null
+ },
+ {
+  "name": "Bellefontaine",
+  "street": "1710 South Main Street",
+  "city": "Bellefontaine",
+  "state": "OH",
+  "zip": "43311",
+  "lat": 40.33451,
+  "lon": -83.765755,
+  "url": null
+ },
+ {
+  "name": "Bowling Green",
+  "street": "1080 S Main Street",
+  "city": "Bowling Green",
+  "state": "OH",
+  "zip": "43402",
+  "lat": 41.358186,
+  "lon": -83.652631,
+  "url": null
+ },
+ {
+  "name": "Brunswick",
+  "street": "1733 Pearl Road STE 125",
+  "city": "Brunswick",
+  "state": "OH",
+  "zip": "44212",
+  "lat": 41.228305,
+  "lon": -81.840842,
+  "url": null
+ },
+ {
+  "name": "Bucyrus",
+  "street": "2460 E. Mansfield St.",
+  "city": "Bucyrus",
+  "state": "OH",
+  "zip": "44820",
+  "lat": 40.813363,
+  "lon": -82.939619,
+  "url": null
+ },
+ {
+  "name": "Canton-East",
+  "street": "3117 Lesh Street",
+  "city": "Canton",
+  "state": "OH",
+  "zip": "44705",
+  "lat": 40.837186,
+  "lon": -81.328729,
+  "url": null
+ },
+ {
+  "name": "Canton-West",
+  "street": "4433 Whipple Ave NW",
+  "city": "Canton",
+  "state": "OH",
+  "zip": "44718",
+  "lat": 40.848961,
+  "lon": -81.424873,
+  "url": null
+ },
+ {
+  "name": "Defiance",
+  "street": "1500 N. Clinton Street, Suite 6",
+  "city": "Defiance",
+  "state": "OH",
+  "zip": "43512",
+  "lat": 41.302888,
+  "lon": -84.365762,
+  "url": null
+ },
+ {
+  "name": "Harrison",
+  "street": "10501 New Haven Rd",
+  "city": "Harrison",
+  "state": "OH",
+  "zip": "45030",
+  "lat": 39.257906,
+  "lon": -84.794331,
+  "url": null
+ },
+ {
+  "name": "Madison",
+  "street": "6600 N Ridge Rd",
+  "city": "Madison",
+  "state": "OH",
+  "zip": "44057",
+  "lat": 41.801507,
+  "lon": -81.052689,
+  "url": null
+ },
+ {
+  "name": "Mansfield",
+  "street": "2196 West 4th Street",
+  "city": "Mansfield",
+  "state": "OH",
+  "zip": "44906",
+  "lat": 40.774307,
+  "lon": -82.594138,
+  "url": null
+ },
+ {
+  "name": "Northwood",
+  "street": "3700 Williston Rd",
+  "city": "Northwood",
+  "state": "OH",
+  "zip": "43619",
+  "lat": 41.599941,
+  "lon": -83.459261,
+  "url": null
+ },
+ {
+  "name": "Piqua",
+  "street": "1245 E. Ash St, Suite 110",
+  "city": "Piqua",
+  "state": "OH",
+  "zip": "45356",
+  "lat": 40.149291,
+  "lon": -84.211576,
+  "url": null
+ },
+ {
+  "name": "Streetsboro",
+  "street": "9059 State Route 14, Suite A",
+  "city": "Streetsboro",
+  "state": "OH",
+  "zip": "44241",
+  "lat": 41.235933,
+  "lon": -81.337363,
+  "url": null
+ },
+ {
+  "name": "Warren",
+  "street": "3850 Elm Road",
+  "city": "Warren",
+  "state": "OH",
+  "zip": "44483",
+  "lat": 41.271694,
+  "lon": -80.778245,
+  "url": null
+ },
+ {
+  "name": "Washington Court House",
+  "street": "2029 Columbus Ave.",
+  "city": "Washington Court House",
+  "state": "OH",
+  "zip": "43160",
+  "lat": 39.553238,
+  "lon": -83.417186,
+  "url": null
+ },
+ {
+  "name": "Aliquippa",
+  "street": "3113 Green Garden Rd Suite 380",
+  "city": "Aliquippa",
+  "state": "PA",
+  "zip": "15001",
+  "lat": 40.596176,
+  "lon": -80.305719,
+  "url": null
+ },
+ {
+  "name": "Belle Vernon",
+  "street": "520 Tri-County Lane",
+  "city": "Belle Vernon",
+  "state": "PA",
+  "zip": "15012",
+  "lat": 40.135669,
+  "lon": -79.841712,
+  "url": null
+ },
+ {
+  "name": "Clarion",
+  "street": "22631 PA-68 Suite 100",
+  "city": "Clarion",
+  "state": "PA",
+  "zip": "16214",
+  "lat": 41.194505,
+  "lon": -79.392609,
+  "url": null
+ },
+ {
+  "name": "Erie",
+  "street": "7200 Peach Street, Summit Towne Centre",
+  "city": "Erie",
+  "state": "PA",
+  "zip": "16509",
+  "lat": 42.050864,
+  "lon": -80.095645,
+  "url": null
+ },
+ {
+  "name": "Latrobe",
+  "street": "300 Unity Plaza",
+  "city": "Latrobe",
+  "state": "PA",
+  "zip": "15650",
+  "lat": 40.317287,
+  "lon": -79.38403,
+  "url": null
+ },
+ {
+  "name": "Meadville",
+  "street": "16218 Conneaut Lake Rd",
+  "city": "Meadville",
+  "state": "PA",
+  "zip": "16335",
+  "lat": 41.622617,
+  "lon": -80.211547,
+  "url": null
+ },
+ {
+  "name": "New Castle",
+  "street": "2652 Ellwood Road Suite 104",
+  "city": "New Castle",
+  "state": "PA",
+  "zip": "16101",
+  "lat": 40.965768,
+  "lon": -80.308284,
+  "url": null
+ }
+]
